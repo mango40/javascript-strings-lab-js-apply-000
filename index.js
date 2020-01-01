@@ -17,7 +17,8 @@ var specialGuest ="Neil deGrasse Tyson";
 var greeting speacialGuest ="greeting" + specialGuest + "!";
 var topic = "space";
 var conversation = "${topic}";
-learn
-ruReferenceError
+learn submit
+
+
 
 
